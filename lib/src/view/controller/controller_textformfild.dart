@@ -1,4 +1,4 @@
-class ControllerTextFormFild {
+class ControllerTextFormField {
   String? password1;
   String? password2;
 
